@@ -4,7 +4,7 @@ Hi 👋 My name is Jagir Bahesh
 WordPress Developer, Leader, WordCamp Organiser, Meetup Organiser, WP Core Contributor
 --------------------------------------------------------------------------------------
 
-Jagir Bahesh is a Team Leader at ZealousWeb Technologies by profession. He has over 7 years of experience in the area. He loves creativity and believes that the world of WordPress is endless and wishes to be a successful contributor in that community. He also organises WordCamps and WordPress Meetups both in Ahmedabad and Asia.
+Jagir Bahesh is a Team Lead Partner - WordPress at [E2M Solutions](https://www.e2msolutions.com/) by profession. He has over 7 years of experience in the area. He loves creativity and believes that the world of WordPress is endless and wishes to be a successful contributor in that community. He also organises WordCamps and WordPress Meetups both in Ahmedabad and Asia.
 
 * 🌍  I'm based in Ahmedabad, India
 * 🖥️  See my portfolio at [http://www.jagirbahesh.in](http://www.jagirbahesh.in)
