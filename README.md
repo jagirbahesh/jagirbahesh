@@ -1,13 +1,67 @@
 Hi 👋 My name is Jagir Bahesh
 =============================
 
-WordPress Developer, Leader, WordCamp Organiser, Meetup Organiser, WP Core Contributor
---------------------------------------------------------------------------------------
+WordPress Developer, Leader, WordCamp Organiser, Meetup Organiser, WP Core Contributor, Consultant
+--------------------------------------------------------------------------------------------------
 
-Jagir Bahesh is a Team Lead Partner - WordPress at [E2M Solutions](https://www.e2msolutions.com/) by profession. He has over 9 years of experience in the area. He loves creativity and believes that the world of WordPress is endless and wishes to be a successful contributor in that community. He also organises WordCamps and WordPress Meetups both in Ahmedabad and Asia.
+I’m Jagir Bahesh with over 10 years of experience in web and WordPress development, I consider myself an expert in creating websites using the WordPress framework. I have successfully developed several websites using WordPress and have also worked on creating email templates, landing pages, and utilising tools such as Bootstrap and WooCommerce. My skills extend to managing hosting and email setup, revamping websites, and much more.
+
+I take pride in delivering 100% satisfaction to every client I work with. My friendly approach to working with clients ensures that every task is completed before the deadline. My main goal is to ensure client satisfaction by fulfilling every requirement and need they have for their website or project. I strive for speed and accuracy in all my work.
+
+Here I have shared my all skills.
+
+Back End development Skills :
+✔ PHP
+✔ WordPress
+
+Extensions, Plugin & Theme development and customization Skills:
+✔ WordPress plugins
+✔ WordPress Theme
+✔ WooCommerce Addon Development
+✔ Third part API plugins one all platform of PHP.
+✔ Major Payment API (PayPal, Authorize.net, Strip, Worldpay)
+
+UI & UX Design Skills:
+✔ Web Apps
+✔ Responsive Websites
+✔ Landing Pages
+
+Front End development skills:
+✔ HTML5
+✔ PHP
+✔ CSS 3
+✔ Bootstrap
+✔ Foundation
+✔ jQuery
+✔ JavaScript
+✔ Sass, Less, scss
+
+Server Migration:
+✔ Server Setup
+✔ CI/ CD integration
+
+Project Management tools :
+✔ Git
+✔ Trello
+✔ Jira
+✔ Basecamp
+✔ Teamwork
+
+Development Editor tools:
+✔ Sublime, Notepad++, PHP Strom, Atom, Visual Code Studio
+
+Tools:
+✔ Photoshop CS 6
+✔ XD
+✔ Sketch
+✔ Coral Draw
+✔ PageMaker
+✔ Illustrator
+
+Feel free to contact me anytime if you need support. I will offer 2-3 hours of free work to review and analyze your project. I believe that you will get satisfaction and high-quality work.
 
 * 🌍  I'm based in Ahmedabad, India
-* 🖥️  See my portfolio at [http://www.jagirbahesh.in](http://www.jagirbahesh.in)
+* 🖥️  See my portfolio at [https://www.jagirbahesh.in](https://www.jagirbahesh.in)
 * ✉️  You can contact me at [bahesh.jagir@gmail.com](mailto:bahesh.jagir@gmail.com)
 * 🧠  I'm learning Webflow
 * 🤝  I'm open to collaborating on WordPress
