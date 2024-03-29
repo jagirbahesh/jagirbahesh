@@ -10,52 +10,52 @@ I take pride in delivering 100% satisfaction to every client I work with. My fri
 
 Here I have shared my all skills.
 
-Back End development Skills :
-✔ PHP
+Back End development Skills : <br />
+✔ PHP <br />
 ✔ WordPress
 
-Extensions, Plugin & Theme development and customization Skills:
-✔ WordPress plugins
-✔ WordPress Theme
-✔ WooCommerce Addon Development
-✔ Third part API plugins one all platform of PHP.
+Extensions, Plugin & Theme development and customization Skills: <br />
+✔ WordPress plugins <br />
+✔ WordPress Theme <br />
+✔ WooCommerce Addon Development <br />
+✔ Third part API plugins one all platform of PHP. <br />
 ✔ Major Payment API (PayPal, Authorize.net, Strip, Worldpay)
 
-UI & UX Design Skills:
-✔ Web Apps
-✔ Responsive Websites
+UI & UX Design Skills: <br />
+✔ Web Apps <br />
+✔ Responsive Websites <br />
 ✔ Landing Pages
 
-Front End development skills:
-✔ HTML5
-✔ PHP
-✔ CSS 3
-✔ Bootstrap
-✔ Foundation
-✔ jQuery
-✔ JavaScript
+Front End development skills: <br />
+✔ HTML5 <br />
+✔ PHP <br />
+✔ CSS 3 <br />
+✔ Bootstrap <br />
+✔ Foundation <br />
+✔ jQuery <br />
+✔ JavaScript <br />
 ✔ Sass, Less, scss
 
-Server Migration:
-✔ Server Setup
+Server Migration: <br />
+✔ Server Setup <br />
 ✔ CI/ CD integration
 
-Project Management tools :
-✔ Git
-✔ Trello
-✔ Jira
-✔ Basecamp
+Project Management tools : <br />
+✔ Git <br />
+✔ Trello <br />
+✔ Jira <br />
+✔ Basecamp <br />
 ✔ Teamwork
 
-Development Editor tools:
+Development Editor tools: <br />
 ✔ Sublime, Notepad++, PHP Strom, Atom, Visual Code Studio
 
-Tools:
-✔ Photoshop CS 6
-✔ XD
-✔ Sketch
-✔ Coral Draw
-✔ PageMaker
+Tools: <br />
+✔ Photoshop CS 6 <br />
+✔ XD <br />
+✔ Sketch <br />
+✔ Coral Draw <br />
+✔ PageMaker <br />
 ✔ Illustrator
 
 Feel free to contact me anytime if you need support. I will offer 2-3 hours of free work to review and analyze your project. I believe that you will get satisfaction and high-quality work.
@@ -104,7 +104,5 @@ src="https://img.shields.io/github/followers/jagirbahesh?logo=github&style=for-t
 <a href="http://www.github.com/jagirbahesh"><img src="https://github-readme-stats.vercel.app/api?username=jagirbahesh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="jagirbahesh's GitHub stats" /></a>
 
 <a href="http://www.github.com/jagirbahesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jagirbahesh&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/jagirbahesh"><img src="https://activity-graph.herokuapp.com/graph?username=jagirbahesh&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/jagirbahesh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagirbahesh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
